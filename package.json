@@ -1,0 +1,20 @@
+{
+  "name": "flashwavrecorder",
+  "version": "1.0.0",
+  "description": "Simple Microphone Recorder using Flash",
+  "main": "html/js/recorder.js",
+  "directories": {
+    "doc": "docs",
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Teamie/FlashWavRecorder.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Teamie/FlashWavRecorder/issues"
+  },
+  "homepage": "https://github.com/Teamie/FlashWavRecorder#readme"
+}
